@@ -4,6 +4,7 @@
     ../../modules/firefox.nix
     ../../modules/fcitx5.nix
     ../../modules/i3.nix
+    ../../modules/steam.nix
     ./hardware-configuration.nix
   ];
 
